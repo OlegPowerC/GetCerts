@@ -1,0 +1,6 @@
+{
+  "CertFile":"cert.cer",
+  "KeyFile":"key.key",
+  "FullChain": "fullchain.cer",
+  "Url":"https://example.local/wafdirectory/certs"
+}
